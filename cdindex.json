@@ -492,12 +492,12 @@
       "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
     },
     {
-      "name": "①秒播",
+      "name": "秒播",
       "type": 1,
       "url": "https://jx.hfyrw.com/mao.go?url="
     },
     {
-      "name": "②秒播",
+      "name": "秒播",
       "type": 1,
       "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
       "ext": {
@@ -516,7 +516,7 @@
       }
     },
     {
-      "name": "③秒播",
+      "name": "秒播",
       "url": "http://81.71.48.249:4456/jsonc/293shipin.php?url=",
       "type": 1,
       "i": "77",
@@ -542,7 +542,7 @@
       }
     },
     {
-      "name": "④秒播",
+      "name": "秒播",
       "type": 1,
       "url": "http://106.55.234.91:4433/?url=",
       "ext": {
@@ -561,7 +561,7 @@
       }
     },
     {
-      "name": "⑤秒播",
+      "name": "秒播",
       "type": 1,
       "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
       "ext": {
@@ -581,12 +581,12 @@
       }
     },
     {
-      "name": "⑦秒播",
+      "name": "秒播",
       "type": 1,
       "url": "https://app.okmedcos.com/4k/?url="
     },
     {
-      "name": "⑧秒播",
+      "name": "秒播",
       "type": 1,
       "url": "https://jie.1z1.cc/api/?key=HdMmTMfyf1uTOQUL0b&url="
     },
