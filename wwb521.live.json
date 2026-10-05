@@ -139,32 +139,32 @@
   ],
   "parses": [
     {
-      "name": "🍀 解析聚合🍀",
+      "name": "解析聚合",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "🍀 Web聚合🍀",
+      "name": "Web聚合",
       "type": 3,
       "url": "Web"
     },
     {
-      "name": "🍀 Json并发🍀",
+      "name": "Json并发",
       "type": 2,
       "url": "Parallel"
     },
     {
-      "name": "🍀 Json轮询🍀",
+      "name": " Json轮询",
       "type": 2,
       "url": "Sequence"
     },
     {
-      "name": "🍀 全能[①]🍀",
+      "name": "全能[①]",
       "type": 0,
       "url": "https://jx.255tv.cn/api/?key=3t4CoYwM7x73KDaBAE&url="
     },
     {
-      "name": "🍀 全能[③]🍀",
+      "name": " 全能[③]",
       "type": 0,
       "url": "https://jx.zhanlangbu.com/?url=",
       "ext": {
@@ -193,7 +193,7 @@
       }
     },
     {
-      "name": "🍀 鸿途手动解析🍀",
+      "name": "鸿途手动解析",
       "type": 0,
       "url": "https://h5.freejson.xyz/player/?url=",
       "ext": {
@@ -222,7 +222,7 @@
       }
     },
     {
-      "name": "🍀 鸿途手动解析2🍀",
+      "name": " 鸿途手动解析2",
       "type": 0,
       "url": "https://h5.freejson.xyz/player/analysis.php?v=",
       "ext": {
@@ -251,7 +251,7 @@
       }
     },
     {
-      "name": "🍀 PRAWIX手动解析🍀",
+      "name": "PRAWIX手动解析",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "ext": {
@@ -280,7 +280,7 @@
       }
     },
     {
-      "name": "🍀 PRAWIX手动解析2🍀",
+      "name": " PRAWIX手动解析2",
       "type": 0,
       "url": "https://vip.parwix.com:4433/player/?url=",
       "ext": {
@@ -309,7 +309,7 @@
       }
     },
     {
-      "name": "🍀 酷享🍀",
+      "name": " 酷享",
       "type": 1,
       "url": "http://pandown.pro/app/kxjx.php?url=",
       "ext": {
@@ -337,7 +337,7 @@
       }
     },
     {
-      "name": "🍀 江湖🍀",
+      "name": "江湖",
       "type": 1,
       "url": "http://pandown.pro/app/ysmjx.php?url=",
       "ext": {
@@ -359,7 +359,7 @@
       }
     },
     {
-      "name": "🍀 左岸🍀",
+      "name": "左岸",
       "type": 1,
       "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
       "ext": {
@@ -387,12 +387,12 @@
       }
     },
     {
-      "name": "🍀 蓝狐🍀",
+      "name": "蓝狐",
       "type": 1,
       "url": " https://json.nhusp.cn/api/?key=54R5NpHXrscmMuXeXk&url="
     },
     {
-      "name": "🍀 keyu🍀",
+      "name": " keyu",
       "type": 1,
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
       "ext": {
@@ -421,7 +421,7 @@
       }
     },
     {
-      "name": "🍀 nhusp🍀",
+      "name": "nhusp",
       "type": 1,
       "url": "https://json.nhusp.cn/api/?key=54R5NpHXrscmMuXeXk&url=",
       "ext": {
@@ -450,17 +450,17 @@
       }
     },
     {
-      "name": "🍀 荣兴🍀",
+      "name": "荣兴",
       "type": 1,
       "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url="
     },
     {
-      "name": "🍀 懒懒1🍀",
+      "name": "懒懒1",
       "type": 1,
       "url": "http://123.57.56.94:9931/lanlan/?url="
     },
     {
-      "name": "🍀 懒懒2🍀",
+      "name": " 懒懒2",
       "type": 1,
       "url": "http://lanlan.ckflv.cn/?url=",
       "ext": {
@@ -479,7 +479,7 @@
       }
     },
     {
-      "name": "🍀 能解🍀",
+      "name": " 能解",
       "type": 1,
       "url": "http://jx.vipmv.co/json.php?token=123457&url=",
       "ext": {
@@ -511,7 +511,7 @@
       }
     },
     {
-      "name": "🍀 萝莉🍀",
+      "name": " 萝莉",
       "type": 1,
       "url": "http://chaloli.cn/home/api?type=ys&uid=1&key=ekloswzABCGHKLOT58&url=",
       "ext": {
@@ -543,7 +543,7 @@
       }
     },
     {
-      "name": "🍀 直解🍀",
+      "name": " 直解",
       "type": 1,
       "url": "http://rxjx.kuanjv.com/allm3u8.php?url=",
       "ext": {
@@ -575,7 +575,7 @@
       }
     },
     {
-      "name": "🍀 rxvip🍀",
+      "name": "rxvip",
       "type": 1,
       "url": "https://vip.rongxingvr.top/api/?key=CwQXkIXGfaUNGVomez&url=",
       "ext": {
@@ -607,7 +607,7 @@
       }
     },
     {
-      "name": "🍀 极速[①]🍀",
+      "name": " 极速",
       "type": 1,
       "url": " http://1.117.111.78:93/home/api?type=ys&uid=24751&key=mqsuvzEFHLMQRWXZ28&url=",
       "ext": {
@@ -636,7 +636,7 @@
       }
     },
     {
-      "name": "🍀 测试[②]🍀",
+      "name": "测试",
       "type": 1,
       "url": "http://1.117.111.78:93/home/api?type=ys&uid=24751&key=demntvwzBCKLOPRSY3&url=",
       "ext": {
@@ -665,12 +665,12 @@
       }
     },
     {
-      "name": "🍀 极速[②]🍀",
+      "name": " 极速",
       "type": 1,
       "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
     },
     {
-      "name": "🍀 智能[①]🍀",
+      "name": " 智能",
       "type": 1,
       "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url=",
       "ext": {
@@ -699,7 +699,7 @@
       }
     },
     {
-      "name": "🍀 智能[③]🍀",
+      "name": " 智能",
       "type": 1,
       "url": "http://api.ckflv.cn/?url=",
       "ext": {
@@ -728,7 +728,7 @@
       }
     },
     {
-      "name": "🍀 智能[④]🍀",
+      "name": " 智能",
       "type": 1,
       "url": "https://json.freejx.in/?url=",
       "ext": {
@@ -757,27 +757,27 @@
       }
     },
     {
-      "name": "🍀 备用[①]🍀",
+      "name": "备用",
       "type": 1,
       "url": "https://jx.255tv.cn/api/?key=ZMQ3AzFpKsCal5aoqa&url="
     },
     {
-      "name": "🍀 备用[②]🍀",
+      "name": " 备用",
       "type": 1,
       "url": "https://k.json.icu/home/api?type=ys&uid=12523586&key=bhjlntBEIJKLPQW146&url="
     },
     {
-      "name": "🍀 备用[③]🍀",
+      "name": " 备用",
       "type": 1,
       "url": "https://k.json.icu/home/api?type=ys&uid=13483004&key=cghjkqrsyKPRV12356&url="
     },
     {
-      "name": "🍀 rx2🍀",
+      "name": " rx2",
       "type": 1,
       "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
     {
-      "name": "🍀 宝盒TV🍀",
+      "name": " 宝盒TV",
       "type": 1,
       "url": "https://jx.52ruo.cc/json/?id=6&url="
     }
@@ -928,7 +928,7 @@
   ],
   "hotSearch": [
     {
-      "name": "🍀 mobilesearch🍀",
+      "name": " mobilesearch",
       "request": {
         "method": "GET",
         "header": [
@@ -968,7 +968,7 @@
   },
   "dairyWords": [
     {
-      "name": "🍀 rating🍀",
+      "name": " rating",
       "request": {
         "method": "GET",
         "url": {
@@ -983,7 +983,7 @@
   ],
   "recommend": [
     {
-      "name": "🍀 豆瓣推荐🍀",
+      "name": " 豆瓣推荐",
       "request": {
         "method": "GET",
         "header": [
@@ -1018,7 +1018,7 @@
   ],
   "rating": [
     {
-      "name": "🍀 rating🍀",
+      "name": " rating",
       "request": {
         "method": "GET",
         "url": {
@@ -1038,7 +1038,7 @@
   ],
   "pullWord": [
     {
-      "name": "🍀 pullWord🍀",
+      "name": " pullWord",
       "request": {
         "method": "GET",
         "url": {
@@ -1067,77 +1067,77 @@
       "options": [
         {
           "category": 4,
-          "name": "🍀 opensles🍀",
+          "name": " opensles",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "🍀 overlay-format🍀",
+          "name": " overlay-format",
           "value": "842225234"
         },
         {
           "category": 4,
-          "name": "🍀 framedrop🍀",
+          "name": " framedrop",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "🍀 soundtouch🍀",
+          "name": " soundtouch",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "🍀 start-on-prepared🍀",
+          "name": " start-on-prepared",
           "value": "1"
         },
         {
           "category": 1,
-          "name": "🍀 http-detect-range-support🍀",
+          "name": " http-detect-range-support",
           "value": "0"
         },
         {
           "category": 1,
-          "name": "🍀 fflags🍀",
+          "name": " fflags",
           "value": "fastseek"
         },
         {
           "category": 2,
-          "name": "🍀 skip_loop_filter🍀",
+          "name": " skip_loop_filter",
           "value": "48"
         },
         {
           "category": 4,
-          "name": "🍀 reconnect🍀",
+          "name": " reconnect",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "🍀 enable-accurate-seek🍀",
+          "name": " enable-accurate-seek",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "🍀 mediacodec🍀",
+          "name": " mediacodec",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "🍀 mediacodec-auto-rotate🍀",
+          "name": " mediacodec-auto-rotate",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "🍀 mediacodec-handle-resolution-change🍀",
+          "name": " mediacodec-handle-resolution-change",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "🍀 mediacodec-hevc🍀",
+          "name": " mediacodec-hevc",
           "value": "0"
         },
         {
           "category": 1,
-          "name": "🍀 dns_cache_timeout🍀",
+          "name": " dns_cache_timeout",
           "value": "600000000"
         }
       ]
@@ -1147,77 +1147,77 @@
       "options": [
         {
           "category": 4,
-          "name": "🍀 opensles🍀",
+          "name": " opensles",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "🍀 overlay-format🍀",
+          "name": " overlay-format",
           "value": "842225234"
         },
         {
           "category": 4,
-          "name": "🍀 framedrop🍀",
+          "name": " framedrop",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "🍀 soundtouch🍀",
+          "name": " soundtouch",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "🍀 start-on-prepared🍀",
+          "name": " start-on-prepared",
           "value": "1"
         },
         {
           "category": 1,
-          "name": "🍀 http-detect-range-support🍀",
+          "name": " http-detect-range-support",
           "value": "0"
         },
         {
           "category": 1,
-          "name": "🍀 fflags🍀",
+          "name": " fflags",
           "value": "fastseek"
         },
         {
           "category": 2,
-          "name": "🍀 skip_loop_filter🍀",
+          "name": " skip_loop_filter",
           "value": "48"
         },
         {
           "category": 4,
-          "name": "🍀 reconnect🍀",
+          "name": "reconnect",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "🍀 enable-accurate-seek🍀",
+          "name": " enable-accurate-seek",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "🍀 mediacodec🍀",
+          "name": "mediacodec",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "🍀 mediacodec-auto-rotate🍀",
+          "name": " mediacodec-auto-rotate",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "🍀 mediacodec-handle-resolution-change🍀",
+          "name": " mediacodec-handle-resolution-change",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "🍀 mediacodec-hevc🍀",
+          "name": "mediacodec-hevc",
           "value": "1"
         },
         {
           "category": 1,
-          "name": "🍀 dns_cache_timeout🍀",
+          "name": "dns_cache_timeout",
           "value": "600000000"
         }
       ]
