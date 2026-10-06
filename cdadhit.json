@@ -3,7 +3,7 @@
     "sites": [
    {
       "key": "danaizi",
-      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳1",
+      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳",
       "type": 1,
       "api": "https://apidanaizi.com/api.php/provide/vod",
       "searchable": 1,
