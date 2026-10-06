@@ -12,6 +12,40 @@
         "ratio": 1.33
       },
       "changeable": 1
+    },
+    {
+      "key": "baip",
+      "name": "🇨🇳🇨🇳 全网 | 影视合集🇨🇳🇨🇳1",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "huangAV",
+      "name": "🇨🇳🇨🇳 全网 | 影视合集🇨🇳🇨🇳2",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dadiapi.com",
+      "name": "🇨🇳🇨🇳 全网 | 影视合集🇨🇳🇨🇳3",
+      "type": 0,
+      "api": "http://dadiapi.com/api.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+      }
     }
   ]
 }
