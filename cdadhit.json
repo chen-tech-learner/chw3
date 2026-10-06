@@ -1,8 +1,9 @@
-﻿{
-  "sites": [
+{
+    "ua":"Mozilla/5.0 (Android 12; TV; rv:112.0) Gecko/112.0 Firefox/112.0",
+    "sites": [
      {
       "key": "dddCMS",
-      "name": "🇨🇳🇨🇳豆豆资源🇨🇳🇨🇳",
+      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳",
       "type": 1,
       "api": "https://api.douapi.cc/api.php/provide/vod/",
       "changeable": 1
@@ -10,7 +11,7 @@
  
     {
       "key": "danaizi",
-      "name": "🇨🇳🇨🇳大奶子 | 采集🇨🇳🇨🇳",
+      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳1",
       "type": 1,
       "api": "https://apidanaizi.com/api.php/provide/vod",
       "searchable": 1,
@@ -23,7 +24,7 @@
    
     {
       "key": "ddapi",
-      "name": "🇨🇳🇨🇳滴滴🇨🇳🇨🇳",
+      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳2",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod",
       "searchable": 1,
@@ -32,7 +33,7 @@
     },
     {
       "key": "fhapi9.com",
-      "name": "🇨🇳🇨🇳废柴(直连)🇨🇳🇨🇳",
+      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳3",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -40,7 +41,7 @@
     },
     {
       "key": "fanhao",
-      "name": "🇨🇳🇨🇳番号 | 采集🇨🇳🇨🇳",
+      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳4",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -50,7 +51,7 @@
     },
     {
       "key": "fanhaozy",
-      "name": "🇨🇳🇨🇳番号资源(卡切)🇨🇳🇨🇳",
+      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳5",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/at/json",
       "searchable": 1,
@@ -58,14 +59,14 @@
     },
     {
       "key": "*fanhao1",
-      "name": "🇨🇳🇨🇳番号🇨🇳🇨🇳",
+      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳6",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/"
     },
   
     {
       "key": "aidan",
-      "name": "🇨🇳🇨🇳艾旦影视采集🇨🇳🇨🇳",
+      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳7",
       "type": 1,
       "api": "https://lovedan.net/api.php/provide/vod/",
       "searchable": 1,
@@ -76,14 +77,14 @@
     },
     {
       "key": "kanzy",
-      "name": "🇨🇳🇨🇳看资源🇨🇳🇨🇳",
+      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳8",
       "type": 1,
       "api": "https://www.pgxdy.com/api/json.php",
       "changeable": 1
     },
     {
       "key": "gdlsp",
-      "name": "🇨🇳🇨🇳香奶🇨🇳🇨🇳",
+      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳9",
       "type": 1,
       "api": "https://www.gdlsp.com/api/json.php",
       "searchable": 1,
