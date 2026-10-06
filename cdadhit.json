@@ -12,47 +12,6 @@
         "ratio": 1.33
       },
       "changeable": 1
-    },
-   
-    {
-      "key": "fhapi9.com",
-      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳2",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "fanhao",
-      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳3",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "proxy"
-    },
-    {
-      "key": "fanhaozy",
-      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳4",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "*fanhao1",
-      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳5",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/"
-    },
-  
-    {
-      "key": "kanzy",
-      "name": "🇨🇳🇨🇳全网 | 影视合集🇨🇳🇨🇳6",
-      "type": 1,
-      "api": "https://www.pgxdy.com/api/json.php",
-      "changeable": 1
     }
   ]
 }
