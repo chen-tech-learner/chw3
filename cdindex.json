@@ -1,61 +1,19 @@
-﻿{
+{
+  "ua":"Mozilla/5.0 (Android 12; TV; rv:112.0) Gecko/112.0 Firefox/112.0",
   "sites": [
-    {
-      "key": "msnu",
-      "name": "💎美少女 💎 ",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ysj",
-      "name": "💎淫水机 💎 ",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*msnzy",
-      "name": "💎美少女资源 💎 ",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
+   {
       "key": "zp059",
-      "name": "💎番号资源 💎 ",
+      "name": "🌟🌟全网 | 影视合集🌟🌟",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "manzy",
-      "name": "💎美少女资源1 💎 ",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "msnii.com",
-      "name": "💎成人46 💎 ",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
+  
     {
       "key": "ddzy",
-      "name": "💎大地资源 💎 ",
+      "name": "🌟🌟全网 | 影视合集🌟🌟1 ",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "searchable": 0,
@@ -63,40 +21,25 @@
     },
     {
       "key": "xnrzy",
-      "name": "💎香奶儿资源 💎 ",
+      "name": "🌟🌟全网 | 影视合集🌟🌟2 ",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 0,
       "quickSearch": 0
     },
-    {
-      "key": "pwdwazi",
-      "name": "💎袜子 💎 ",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
+ 
     {
       "key": "paib",
-      "name": "💎白嫖资源 💎 ",
+      "name": "🌟🌟全网 | 影视合集🌟🌟3",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 0,
       "quickSearch": 0
     },
-    {
-      "key": "kxgav.com",
-      "name": "💎成人44 💎 ",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "fhzyuan",
-      "name": "💎番号资源(卡切) 💎 ",
+      "name": "🌟🌟全网 | 影视合集🌟🌟4",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/at/json",
       "searchable": 1,
@@ -104,24 +47,16 @@
     },
     {
       "key": "ysjzy",
-      "name": "💎淫水机资源1 💎 ",
+      "name": "🌟🌟全网 | 影视合集🌟🌟5",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 0,
       "quickSearch": 0
     },
-    {
-      "key": "mshaon",
-      "name": "💎美少女2💎",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
     {
       "key": "*9hzy",
-      "name": "💎9号资源1💎",
+      "name": "🌟🌟全网 | 影视合集🌟🌟6",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -130,7 +65,7 @@
     },
     {
       "key": "gdlsp.com",
-      "name": "💎成人36💎",
+      "name": "🌟🌟全网 | 影视合集🌟🌟7",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "quickSearch": 1,
@@ -139,21 +74,14 @@
     },
     {
       "key": "*baipiao",
-      "name": "💎*白嫖💎 ",
+      "name": "🌟🌟全网 | 影视合集🌟🌟8",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php"
     },
-    {
-      "key": "*meishaon",
-      "name": "💎*美少女资源3💎 ",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
+   
     {
       "key": "*fanhao",
-      "name": "💎*番号资源a💎 ",
+      "name": "🌟🌟全网 | 影视合集🌟🌟9",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 0,
@@ -161,34 +89,17 @@
     },
     {
       "key": "dadiapi.com",
-      "name": "💎成人09 💎",
+      "name": "🌟🌟全网 | 影视合集🌟🌟10",
       "type": 0,
       "api": "http://dadiapi.com/api.php",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "*meishaoni",
-      "name": "💎*美少女4💎 ",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "*yshiji",
-      "name": "💎*饮水机💎 ",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
     {
       "key": "KpgxdyE",
-      "name": "💎黄AV资源(已修复)💎 ",
+      "name": "🌟🌟全网 | 影视合集🌟🌟11 ",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
@@ -197,7 +108,7 @@
     },
     {
       "key": "gdlsE",
-      "name": "💎香奶儿资源💎 ",
+      "name": "🌟🌟全网 | 影视合集🌟🌟12 ",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
@@ -206,13 +117,13 @@
     },
     {
       "key": "*baipiao1",
-      "name": "💎*白嫖💎 ",
+      "name": "🌟🌟全网 | 影视合集🌟🌟13",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php"
     },
     {
       "key": "*baipai",
-      "name": "💎*白嫖资源💎 ",
+      "name": "🌟🌟全网 | 影视合集🌟🌟14",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 0,
@@ -220,51 +131,11 @@
     },
     {
       "key": "*huangAV",
-      "name": "💎*黄AV 💎",
+      "name": "🌟🌟全网 | 影视合集🌟🌟15",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php"
-    },
-    {
-      "key": "*yshui",
-      "name": "💎*淫水机资源0💎 ",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "xrbsp.com",
-      "name": "💎成人66 💎",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "*ysjj",
-      "name": "💎*饮水机r💎 ",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "*xner",
-      "name": "💎*香奶儿0💎 ",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php"
-    },
-    {
-      "key": "*xnaierzy",
-      "name": "💎*香奶儿资源💎 ",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
     }
-  ],
+   ],
   "parses": [
     {
       "name": " 解析聚合",
@@ -492,12 +363,12 @@
       "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
     },
     {
-      "name": "秒播",
+      "name": "①秒播",
       "type": 1,
       "url": "https://jx.hfyrw.com/mao.go?url="
     },
     {
-      "name": "秒播",
+      "name": "②秒播",
       "type": 1,
       "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
       "ext": {
@@ -516,7 +387,7 @@
       }
     },
     {
-      "name": "秒播",
+      "name": "③秒播",
       "url": "http://81.71.48.249:4456/jsonc/293shipin.php?url=",
       "type": 1,
       "i": "77",
@@ -542,7 +413,7 @@
       }
     },
     {
-      "name": "秒播",
+      "name": "④秒播",
       "type": 1,
       "url": "http://106.55.234.91:4433/?url=",
       "ext": {
@@ -561,7 +432,7 @@
       }
     },
     {
-      "name": "秒播",
+      "name": "⑤秒播",
       "type": 1,
       "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
       "ext": {
@@ -581,12 +452,12 @@
       }
     },
     {
-      "name": "秒播",
+      "name": "⑦秒播",
       "type": 1,
       "url": "https://app.okmedcos.com/4k/?url="
     },
     {
-      "name": "秒播",
+      "name": "⑧秒播",
       "type": 1,
       "url": "https://jie.1z1.cc/api/?key=HdMmTMfyf1uTOQUL0b&url="
     },
