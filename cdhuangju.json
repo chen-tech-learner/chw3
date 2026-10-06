@@ -1,40 +1,23 @@
 ﻿{
-  "sites": [
-   {
-      "key": "py_rolizxwnoble",
-      "name": "🎬乱伦仓库🎬",
-      "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/DodgeZhang/tvbox/main/huangju/ext/rolizxwnoble.py",
-      "ext": ""
-    },
-    {
+     "ua":"Mozilla/5.0 (Android 12; TV; rv:112.0) Gecko/112.0 Firefox/112.0",
+	 "sites": [
+      {
       "key": "py_shaofu36",
-      "name": "🎬少妇喝了🎬",
+      "name": "💿💿  全网 | 影视合集💿 💿 ",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/DodgeZhang/tvbox/main/huangju/ext/shaofu36.py",
       "ext": ""
     },
- 
-    {
+     {
       "key": "py_owoav",
-      "name": "🎬owoav🎬",
+      "name": "💿💿  全网 | 影视合集💿 💿 1",
       "type": 3,
       "api": "https://gh-proxy.org/raw.githubusercontent.com/DodgeZhang/tvbox/main/huangju/ext/owoav.py",
       "ext": ""
     },
-  
-    {
-      "key": "meisn",
-      "name": "🎬美少女🎬",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-   
-    {
+     {
       "key": "dnz",
-      "name": "🎬大奶子 | 采集🎬",
+      "name": "💿💿  全网 | 影视合集💿 💿 2",
       "type": 1,
       "api": "https://apidanaizi.com/api.php/provide/vod",
       "searchable": 1,
@@ -46,7 +29,7 @@
     },
     {
       "key": "Zuise",
-      "name": "🎬最色🎬",
+      "name": "💿💿  全网 | 影视合集💿 💿 3",
       "type": 3,
       "api": "csp_Zuise",
       "quickSearch": 1,
@@ -55,37 +38,10 @@
       "timeout": 60,
       "ext": "proxy"
     },
-	{
-      "key": "ysj",
-      "name": "🎬水机 | 采集🎬",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "proxy"
-    },
-    {
-      "key": "nxer",
-      "name": "🎬香奶 | 采集🎬",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "proxy"
-    },
-    {
-      "key": "baipiao",
-      "name": "🎬白嫖 | 采集🎬",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "proxy"
-    },
+
     {
       "key": "dadiz",
-      "name": "🎬大地 | 采集🎬",
+      "name": "💿💿  全网 | 影视合集💿 💿 4",
       "type": 0,
       "api": "https://dadiapi.com/apple_m3u8.php",
       "playUrl": "https://play.dadiapi.com/watch?url=",
@@ -94,18 +50,10 @@
       "filterable": 0,
       "ext": "proxy"
     },
-	{
-      "key": "meishaon",
-      "name": "🎬少女 | 采集🎬",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "proxy"
-    },
+
     {
       "key": "avc",
-      "name": "🎬AV | 采集🎬",
+      "name": "💿💿  全网 | 影视合集💿 💿 5",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
@@ -114,7 +62,7 @@
     },
     {
       "key": "nxx",
-      "name": "🎬奶香 | 采集🎬",
+      "name": "💿💿  全网 | 影视合集💿 💿 6",
       "type": 1,
       "api": "https://naixxzy.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -122,19 +70,9 @@
       "changeable": 1,
       "ext": "proxy"
     },
-    {
-      "key": "ddi",
-      "name": "🎬滴滴 | 采集🎬",
-      "type": 1,
-      "api": "https://api.ddapi.cc/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "proxy"
-    },
-    {
+     {
       "key": "hhc",
-      "name": "🎬嘿嘿 | 采集🎬",
+      "name": "💿💿  全网 | 影视合集💿 💿 7",
       "type": 1,
       "api": "https://api.heiapi.cc/api.php/provide/vod/",
       "playUrl": "",
